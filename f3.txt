@@ -1,0 +1,21 @@
+JkRemember the unhandledrejection event from the article Error handling with promises?
+
+Now we can see exactly how JavaScript finds out that there was an unhandled rejection.
+
+An “unhandled rejection” occurs when a promise error is not handled at the end of the microtask queue.Remember the unhandledrejection event from the article Error handling with promises?
+
+Now we can see exactly how JavaScript finds out that there was an unhandled rejection.
+
+An “unhandled rejection” occurs when a promise error is not handled at the end of the microtask queue.Remember the unhandledrejection event from the article Error handling with promises?
+
+Now we can see exactly how JavaScript finds out that there was an unhandled rejection.
+
+An “unhandled rejection” occurs when a promise error is not handled at the end of the microtask queue.Remember the unhandledrejection event from the article Error handling with promises?
+
+Now we can see exactly how JavaScript finds out that there was an unhandled rejection.
+
+An “unhandled rejection” occurs when a promise error is not handled at the end of the microtask queue.Remember the unhandledrejection event from the article Error handling with promises?
+
+Now we can see exactly how JavaScript finds out that there was an unhandled rejection.
+
+An “unhandled rejection” occurs when a promise error is not handled at the end of the microtask queue.
