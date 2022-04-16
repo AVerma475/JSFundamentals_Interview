@@ -1,0 +1,90 @@
+Promise handlers always go through this internal queue.
+
+If there’s a chain with multiple .then/catch/finally, then every one of them is executed asynchronously. That is, it first gets queued, then executed when the current code is complete and previously queued handlers are finished.
+
+What if the order matters for us? How can we make code finished appear after promise done?
+Promise handlers always go through this internal queue.
+
+If there’s a chain with multiple .then/catch/finally, then every one of them is executed asynchronously. That is, it first gets queued, then executed when the current code is complete and previously queued handlers are finished.
+
+What if the order matters for us? How can we make code finished appear after promise done?
+Promise handlers always go through this internal queue.
+
+If there’s a chain with multiple .then/catch/finally, then every one of them is executed asynchronously. That is, it first gets queued, then executed when the current code is complete and previously queued handlers are finished.
+
+What if the order matters for us? How can we make code finished appear after promise done?
+Promise handlers always go through this internal queue.
+
+If there’s a chain with multiple .then/catch/finally, then every one of them is executed asynchronously. That is, it first gets queued, then executed when the current code is complete and previously queued handlers are finished.
+
+What if the order matters for us? How can we make code finished appear after promise done?
+Promise handlers always go through this internal queue.
+
+If there’s a chain with multiple .then/catch/finally, then every one of them is executed asynchronously. That is, it first gets queued, then executed when the current code is complete and previously queued handlers are finished.
+
+What if the order matters for us? How can we make code finished appear after promise done?
+Promise handlers always go through this internal queue.
+
+If there’s a chain with multiple .then/catch/finally, then every one of them is executed asynchronously. That is, it first gets queued, then executed when the current code is complete and previously queued handlers are finished.
+
+What if the order matters for us? How can we make code finished appear after promise done?
+Promise handlers always go through this internal queue.
+
+If there’s a chain with multiple .then/catch/finally, then every one of them is executed asynchronously. That is, it first gets queued, then executed when the current code is complete and previously queued handlers are finished.
+
+What if the order matters for us? How can we make code finished appear after promise done?
+Promise handlers always go through this internal queue.
+
+If there’s a chain with multiple .then/catch/finally, then every one of them is executed asynchronously. That is, it first gets queued, then executed when the current code is complete and previously queued handlers are finished.
+
+What if the order matters for us? How can we make code finished appear after promise done?
+Promise handlers always go through this internal queue.
+
+If there’s a chain with multiple .then/catch/finally, then every one of them is executed asynchronously. That is, it first gets queued, then executed when the current code is complete and previously queued handlers are finished.
+
+What if the order matters for us? How can we make code finished appear after promise done?
+Promise handlers always go through this internal queue.
+
+If there’s a chain with multiple .then/catch/finally, then every one of them is executed asynchronously. That is, it first gets queued, then executed when the current code is complete and previously queued handlers are finished.
+
+What if the order matters for us? How can we make code finished appear after promise done?
+Promise handlers always go through this internal queue.
+
+If there’s a chain with multiple .then/catch/finally, then every one of them is executed asynchronously. That is, it first gets queued, then executed when the current code is complete and previously queued handlers are finished.
+
+What if the order matters for us? How can we make code finished appear after promise done?
+Promise handlers always go through this internal queue.
+
+If there’s a chain with multiple .then/catch/finally, then every one of them is executed asynchronously. That is, it first gets queued, then executed when the current code is complete and previously queued handlers are finished.
+
+What if the order matters for us? How can we make code finished appear after promise done?
+Promise handlers always go through this internal queue.
+
+If there’s a chain with multiple .then/catch/finally, then every one of them is executed asynchronously. That is, it first gets queued, then executed when the current code is complete and previously queued handlers are finished.
+
+What if the order matters for us? How can we make code finished appear after promise done?
+Promise handlers always go through this internal queue.
+
+If there’s a chain with multiple .then/catch/finally, then every one of them is executed asynchronously. That is, it first gets queued, then executed when the current code is complete and previously queued handlers are finished.
+
+What if the order matters for us? How can we make code finished appear after promise done?
+Promise handlers always go through this internal queue.
+
+If there’s a chain with multiple .then/catch/finally, then every one of them is executed asynchronously. That is, it first gets queued, then executed when the current code is complete and previously queued handlers are finished.
+
+What if the order matters for us? How can we make code finished appear after promise done?
+Promise handlers always go through this internal queue.
+
+If there’s a chain with multiple .then/catch/finally, then every one of them is executed asynchronously. That is, it first gets queued, then executed when the current code is complete and previously queued handlers are finished.
+
+What if the order matters for us? How can we make code finished appear after promise done?
+Promise handlers always go through this internal queue.
+
+If there’s a chain with multiple .then/catch/finally, then every one of them is executed asynchronously. That is, it first gets queued, then executed when the current code is complete and previously queued handlers are finished.
+
+What if the order matters for us? How can we make code finished appear after promise done?
+Promise handlers always go through this internal queue.
+
+If there’s a chain with multiple .then/catch/finally, then every one of them is executed asynchronously. That is, it first gets queued, then executed when the current code is complete and previously queued handlers are finished.
+
+What if the order matters for us? How can we make code finished appear after promise done?
